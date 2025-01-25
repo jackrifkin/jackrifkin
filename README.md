@@ -25,5 +25,4 @@ Snowboarding, Catan, NYT Mini, Husky Hunt, Watching Movies
 
 #  
 ### Feel free to check out some of my projects!
-#### Or check out my [LinkedIn](https://www.linkedin.com/in/jackrifkin/)
 
