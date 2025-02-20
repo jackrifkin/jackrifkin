@@ -1,4 +1,4 @@
-## Hello there
+## Hello there ![lightsaber](/lightsaber_small.png)
 
 ### I'm Jack, the software engineer ever
 
