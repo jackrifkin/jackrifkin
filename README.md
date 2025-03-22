@@ -11,6 +11,7 @@
 - 👨‍💻 Building a Next.js website to showcase the above project
 - 👨‍🎓 Looking for full-time jobs 👀 
 - 🧩 Playing Catan or sometimes Ticket to Ride
+- 🧗 Rock climbing sometimes
 
 ### Some things I'm good at:
 #### Front End
