@@ -4,7 +4,7 @@
 
 ### Currently, I'm...
 - 🎓 Finishing up my B.S. in _Computer Science and Media Arts_ at Northeastern University, graduating this Spring 🤯
-- 🏜️ Building a 3D interactive portfolio website with Three.js and Autodesk Maya
+- 🏜️ Building a 3D interactive portfolio website with React Three and Autodesk Maya
 
   - _**Coming April 2025!**_
 - 👨‍💻 Researching new and creative ways to build motion capture data portraits using TouchDesigner
